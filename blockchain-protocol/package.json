@@ -1,0 +1,19 @@
+{
+  "name": "rwa-sentinel-blockchain-protocol",
+  "version": "0.1.0",
+  "description": "RWA Sentinel Protocol - Smart contracts for RWA tokenization",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-ethers": "^3.0.6",
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "hardhat": "^2.19.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "dotenv": "^16.3.1",
+    "ethers": "^6.9.0"
+  }
+}
