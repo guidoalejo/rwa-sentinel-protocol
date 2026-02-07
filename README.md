@@ -1,5 +1,15 @@
 # RWA Sentinel Protocol 🛡️
 
+<p align="center">
+  <img src="assets/banner.png" alt="RWA Sentinel Protocol Architecture" width="100%">
+</p>
+
+<p align="center">
+  <b>AI-Powered Oracle for Model 4 Real World Asset Tokenization</b>
+</p>
+
+---
+
 **AI-Powered Oracle for Model 4 Real World Asset Tokenization**
 
 ---
